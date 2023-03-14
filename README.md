@@ -2,5 +2,5 @@
 
 ## Professores
 
-* Johnatan
 * Gabriel
+* Cleiton
